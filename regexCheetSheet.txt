@@ -1,0 +1,5 @@
+^\s*$ or ^\s* for empty line
+
+0.*?[0o] or [0o�].*?[0o�] for page delimiters
+
+^.*\b(\d)\b.*$ For lines with digits
