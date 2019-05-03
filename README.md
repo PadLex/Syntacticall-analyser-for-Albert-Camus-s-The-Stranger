@@ -1,1 +1,1 @@
-# Syntacticall-analyser-for-Albert-Camus-s-The-Stranger
+# Syntactic analyser for Albert Camus's The Stranger
